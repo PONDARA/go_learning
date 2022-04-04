@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/pondara/go_learning v0.0.0-20220404073504-8a7b59a065ff h1:GEG8w3RjgRSsaGecAIQSGJui8Q27L/C7Qfz7y/tzTyA=
+github.com/pondara/go_learning v0.0.0-20220404073504-8a7b59a065ff/go.mod h1:5wrZwfryxmYN7OIs+468SYlrkurB8NAedPTeC2gWLj4=
